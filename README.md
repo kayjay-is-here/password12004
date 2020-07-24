@@ -10,7 +10,7 @@ Oh, and also some infosec stuff: *https://hackthis.com*
 
 ### 👨‍💻 Languages and Tools
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/password12004)](https://github.com/password12004) 
 
 

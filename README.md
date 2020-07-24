@@ -5,11 +5,12 @@
 ### 👋 Hey Guys I'm also known as `kjl3080`or `Kyle`.
 I’m currently learning about lower-level programming and software engineering.
 Oh, and also some infosec stuff: *https://hackthis.com*
-
+[![forthebadge](https://forthebadge.com/images/badges/pretty-risque.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
-[![C#](https://img.shields.io/badge/-CSharp?style=flat&logo=csharp&logoColor=white&link=https://github.com/password12004)](https://github.com/password12004) 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/password12004)](https://github.com/password12004) 
 
 
